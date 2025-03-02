@@ -1,4 +1,3 @@
-# hm-shopping
 
 ## Project setup
 ```
